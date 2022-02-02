@@ -13,5 +13,11 @@
     </head>
     <body>
         <h1>Edit Note</h1>
+        
+        <form action="note" method="post">
+            <input type="text" name="title" id="title" placeholder="Title"><!-- comment -->
+            <input type="text" name="contents" id="contents" placeholder="Contents"><!-- comment -->
+            <button type="submit">Submit</button>     
+        </form>
     </body>
 </html>
