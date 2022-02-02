@@ -12,7 +12,8 @@
         <title>View Note</title>
     </head>
     <body>
-        <h1>View Note</h1>
+        <h1>Simple Note Keeper</h1>
+        <h2>View Note</h2>
         
         <p>Title: ${note.title}</p>
         <p>Contents: ${note.contents}</p>
